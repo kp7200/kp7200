@@ -7,12 +7,15 @@
 - 🌱 Currently Improving JAVA, Selenium, Jenkins, Maven...
 - 💞️ Looking to collaborate on Automation projects...
 
+### Ongoing Learnings
+[![Ongoing Learnings](https://skillicons.dev/icons?i=flutter,dart,git,androidstudio)](https://skillicons.dev)
+
 ### Contact me!
 - 📫 kevalparakhiya.kp7200@gmail.com
 - 📫 kevalparakhiya@gmail.com
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=selenium,maven,java,js,py,cpp,html,css,bootstrap,androidstudio,vscode,eclipse,github,git,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=selenium,maven,java,js,py,cpp,html,css,bootstrap,androidstudio,vscode,eclipse,github,mysql)](https://skillicons.dev)
 
 ### Employer?
 > [!IMPORTANT]  
