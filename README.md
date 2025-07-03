@@ -1,9 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6085b5&height=120&section=header" alt="header"/>
 
 ## Hello, It's Keval Parakhiya
+- 💻 Freelancer Developer
 - 💞️ Looking to collaborate on QA, Automation, UI/UX projects...
 - :technologist: Past Techmighty
-- 💻 Member of Google Developers Group (GDG) Ahmedabad...
+- 🌎 Member of Google Developers Group (GDG) Ahmedabad...
 - 👀 Master in Manual Testing (GDPR Testing, Test Data Management, Performance Testing, Load Testing, UI/UX Testing)...
 - 🌱 Currently Improving Flutter, Selenium, Jenkins, Maven...
 
@@ -19,7 +20,7 @@
 
 ### Looking to collaborate?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1clsizoyRh42R-F0VZJvNlkKUh2QQpIPh/view?usp=sharing" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/1v8RrqkpvCUJWRjafZjzrV11aPWLkhpc0/view?usp=sharing" download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6085b5&height=120&section=footer" alt="footer"/>
 
