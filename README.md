@@ -16,7 +16,7 @@
 - 📫 kevalparakhiya@gmail.com
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=selenium,maven,java,js,py,cpp,html,css,bootstrap,androidstudio,vscode,eclipse,github,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=selenium,maven,java,js,py,figma,cpp,html,css,bootstrap,androidstudio,vscode,eclipse,github,mysql)](https://skillicons.dev)
 
 ### Looking to collaborate?
 > [!IMPORTANT]  
