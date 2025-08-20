@@ -20,7 +20,7 @@
 
 ### Looking to collaborate?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1v8RrqkpvCUJWRjafZjzrV11aPWLkhpc0/view?usp=sharing" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/1FF-HogkcO3l_DJ1vZR-ay0Ui5XO3QuD3/view?usp=sharing" download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6085b5&height=120&section=footer" alt="footer"/>
 
