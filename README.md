@@ -9,14 +9,14 @@
 - 🌱 Currently Improving Flutter, Selenium, Jenkins, Maven...
 
 ### Ongoing Learnings
-[![Ongoing Learnings](https://skillicons.dev/icons?i=flutter,dart,git,androidstudio)](https://skillicons.dev)
+[![Ongoing Learnings](https://skillicons.dev/icons?i=flutter,dart,git)](https://skillicons.dev)
 
 ### Contact me!
 - 📫 kevalparakhiya.kp7200@gmail.com
 - 📫 kevalparakhiya@gmail.com
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=selenium,maven,java,js,py,figma,cpp,html,css,bootstrap,androidstudio,vscode,eclipse,github,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,selenium,maven,java,js,py,figma,cpp,html,css,bootstrap,androidstudio,vscode,eclipse,github,mysql)](https://skillicons.dev)
 
 ### Looking to collaborate?
 > [!IMPORTANT]  
